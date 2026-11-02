@@ -132,7 +132,10 @@ android {
         generateLocaleConfig = true
         localeFilters += listOf(
             "en",
-            "ru"
+            "zh-rCN",
+            "ru",
+            "ar",
+            "bn"
         )
     }
 
